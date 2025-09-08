@@ -32,7 +32,7 @@ Aplicativo Android simples que simula o processo de realizar um pedido em uma pi
 
 - Calabresa → R$ 20,00 
 - Portuguesa → R$ 20,00 
-- Nutella com Morango → R$ 30,00
+- Morango com nutella → R$ 30,00
 - Frango com palmito → R$ 20,00
 - Brigadeiro → R$ 20,00
 
