@@ -46,4 +46,4 @@ Aplicativo Android simples que simula o processo de realizar um pedido em uma pi
 
 Este projeto foi desenvolvido para fins **didáticos** e pode ser usado livremente em cursos e estudos relacionados a Android.  
 <img width="400" height="730" alt="image" src="https://github.com/alevenancioq7/MyPizza/blob/master/modelo1.png" /> 
-<img width="450" height="730" alt="image" src="https://github.com/alevenancioq7/MyPizza/blob/master/modelo2.png" />
+<img width="400" height="730" alt="image" src="https://github.com/alevenancioq7/MyPizza/blob/master/modelo2.png" />
